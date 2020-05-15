@@ -1,0 +1,7 @@
+flask
+celery
+rabbitmq
+flask-restful
+flask-migrate
+requests
+flask-cors
